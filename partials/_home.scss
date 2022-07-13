@@ -54,7 +54,7 @@
       position: relative;
       width: 60px;
       height: 60px;
-      background: url("/../assets/menu.png");
+      background: url("./../assets/menu.png");
       background-repeat: no-repeat;
       background-size: 30px;
       background-position: center;
@@ -63,7 +63,7 @@
         brightness(101%) contrast(104%);
 
       &.active {
-        background: url("/../assets/plus.png");
+        background: url("./../assets/plus.png");
         background-repeat: no-repeat;
         background-size: 30px;
         background-position: center;

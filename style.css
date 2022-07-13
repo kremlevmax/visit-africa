@@ -85,7 +85,7 @@ h5 {
   position: relative;
   width: 60px;
   height: 60px;
-  background: url("/../assets/menu.png");
+  background: url("./../assets/menu.png");
   background-repeat: no-repeat;
   background-size: 30px;
   background-position: center;
@@ -93,7 +93,7 @@ h5 {
   filter: invert(87%) sepia(100%) saturate(0%) hue-rotate(168deg) brightness(101%) contrast(104%);
 }
 .home header .toggle.active {
-  background: url("/../assets/plus.png");
+  background: url("./../assets/plus.png");
   background-repeat: no-repeat;
   background-size: 30px;
   background-position: center;
